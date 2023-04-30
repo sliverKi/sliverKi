@@ -2,8 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20Stranger%20👋&color=timeGradient&height=270&section=header&fontColor=FFFFFF&fontSize=80&animation=twinkling)
 
-</div>
-### Hello Stranger 👋
+
+### I'm EunKi-Ko, a backend developer. 👋
 
 
 <!--

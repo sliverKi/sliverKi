@@ -25,13 +25,28 @@ I hope to develop every beautiful things.
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/>
 
-<br/><br/>
+<br>
+<br>
 <b>🫧 Studying 🫧</b>
-  
+
+<br>
+<br>  
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=Nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Celery-37814A?style=plastic&logo=Celery&logoColor=white"/>
   
+</div>  
+
+<br>
+<br>
+
+<div align ="center">
+
+![SliverKi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sliverKi&theme=codeSTACKr&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sliverKi&layout=compact&theme=codeSTACKr)
+
+</div>
 
 <!--
 **sliverKi/sliverKi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,4 +62,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
+

@@ -26,6 +26,7 @@ I hope to develop every beautiful things.
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/>
 
 <br>
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=plastic&logo=amazonaws&logoColor=white"/>  
 <br>
 <b>🫧 Studying 🫧</b>
 

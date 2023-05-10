@@ -8,7 +8,7 @@ I hope to develop every beautiful things.
 
 <br><br>
 
-<br/><b>🫧 Tools 🫧</b><br/>
+<br/><b>🫧 Tools 🫧<b/><br/>
 
 
 
@@ -28,20 +28,17 @@ I hope to develop every beautiful things.
 <br>
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=plastic&logo=amazonaws&logoColor=white"/>  
 <br>
-<b>🫧 Studying 🫧</b>
 
-<br>
-<br>  
+<br/><b>🫧 Studying 🫧</b>  
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=Nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Celery-37814A?style=plastic&logo=Celery&logoColor=white"/>
   
-</div>  
 
 <br>
 <br>
-
+</div>
 <div align ="center">
 
 ![SliverKi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sliverKi&theme=codeSTACKr&show_icons=true)

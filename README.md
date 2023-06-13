@@ -41,7 +41,7 @@ I hope to develop every beautiful things.
 </div>
 <div align ="center">
 
-![SliverKi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sliverKi&theme=codeSTACKr&show_icons=true)
+<!--![SliverKi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sliverKi&theme=codeSTACKr&show_icons=true)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sliverKi&layout=compact&theme=codeSTACKr)
 
 </div>

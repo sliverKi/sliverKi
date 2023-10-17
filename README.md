@@ -5,8 +5,7 @@
 
 ### Hello, I'm EunKi-Ko. I'm dreaming of becoming a backend developer. 🌱
 I hope to develop every beautiful things.
-<br>울랄라 울라라 엉덩이를 흔들자ㅏㅏ
-<br><br>
+
 
 <br/><b>🫧 Tools 🫧<b/><br/>
 

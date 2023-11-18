@@ -31,9 +31,8 @@ I hope to develop every beautiful things.
 <br/><b>🫧 Studying 🫧</b>  
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=Nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Celery-37814A?style=plastic&logo=Celery&logoColor=white"/>
-  
+<img src="https://img.shields.io/badge/NodeJS-339933?style=fplastic&logo=node.js&logoColor=white">
+
 
 <br>
 <br>

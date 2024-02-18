@@ -33,6 +33,8 @@ I hope to develop every beautiful things.
 <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/NodeJS-339933?style=fplastic&logo=node.js&logoColor=white">
 
+<br/><b>🫧 [Velog](https://velog.io/@sliverki/series)  🫧</b> 
+
 
 <br>
 <br>

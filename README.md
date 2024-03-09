@@ -12,12 +12,9 @@ I hope to develop every beautiful things.
 
 
 <img src="https://img.shields.io/badge/Python-003399?style=plastic&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/django-22741C?style=plastic&logo=DJANGO&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=SQLite&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
 
 <br/>
